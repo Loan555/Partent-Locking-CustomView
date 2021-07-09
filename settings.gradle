@@ -1,0 +1,2 @@
+rootProject.name = "CustomView-Canvas-Animation"
+include ':app'
